@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavsar</h1>
-<h3 align="center">A frontend developer or you can call me a Full Stack Developer too 😀! I am a Postgraduate in Master of Information Technology with a passion for Full-Stack development, experienced at developing responsive web designs and interactive UIs. It has been more than 2 years I am writing code in JavaScript. Every day I come across something new and that is what keeps my passion alive for programming. I am more into front-end development, improving my knowledge in ReactJS constantly by working on different projects. Currently working in PERN stack and improving my skills by working on amazing projects at INCO Australia. Exploring different aspects of node.js and express, literally loving working as a full-stack developer.</h3>
+<h3>A frontend developer or you can call me a Full Stack Developer too 😀! I am a Postgraduate in Master of Information Technology with a passion for Full-Stack development, experienced at developing responsive web designs and interactive UIs. It has been more than 2 years I am writing code in JavaScript. Every day I come across something new and that is what keeps my passion alive for programming. I am more into front-end development, improving my knowledge in ReactJS constantly by working on different projects. Currently working in PERN stack and improving my skills by working on amazing projects at INCO Australia. Exploring different aspects of node.js and express, literally loving working as a full-stack developer.</h3>
 
 - 🔭 I’m currently working on [Movie App(TMDB API)](https://github.com/shubhamb04/Project5-Incode)
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamb04](https://github.com/shubhamb04)
 
-- 💬 Ask me about **JavaScript, React and Express**
+- 💬 Would love to discuss about **Web Development, Fitness & Music**
 
 - 📫 How to reach me **shubhambhavsar50@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
+- 📄 Explore my experiences [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
