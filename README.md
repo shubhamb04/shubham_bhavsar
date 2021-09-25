@@ -9,7 +9,7 @@
 
 - 💬 Would love to discuss about **Web Development, Fitness & Music**
 
-- 📫 How to reach me **shubhambhavsar50@gmail.com**
+- 📫 Reach me @ **shubhambhavsar50@gmail.com**
 
 - 📄 Explore my experiences [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
 
