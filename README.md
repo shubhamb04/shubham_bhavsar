@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamb04](https://github.com/shubhamb04)
 
-- 💬 Would love to discuss about **Web Development, Fitness & Music**
+- 💬 Ask me about **Web Development, Fitness || Music**
 
 - 📫 Reach me @ **shubhambhavsar50@gmail.com**
 
