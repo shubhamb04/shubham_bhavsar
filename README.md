@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [INCO Academy Website](https://www.inco.org.au/inco-academy)
 
-- 🌱 I’m currently learning **NodeJS(Express) and AWS Services**
+- 🌱 I’m currently learning **Docker and AWS Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamb04](https://github.com/shubhamb04)
 
