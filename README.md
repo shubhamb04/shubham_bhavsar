@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Docker and AWS Services**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamb04](https://github.com/shubhamb04)
-
-- 💬 Ask me about **Web Development, Fitness || Music**
+- 💬 Let's talk about **Web Development || Fitness || Music**
 
 - 📫 Reach me @ **shubhambhavsar50@gmail.com**
 
-- 📄 Explore my experiences [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
+- 📄 Explore my work adventure [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
