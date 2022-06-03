@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhavsar</h1>
-<h3 align="center">A Full Stack Developer! I am a Postgraduate in Master of Information Technology with a passion for Full-Stack development, experienced at developing responsive web designs and interactive UIs. It has been more than 2 years I am writing code in JavaScript. Love to come across new challenges and that is what keeps my passion alive for programming. I am more into front-end development, improving my knowledge in ReactJS constantly by working on different projects. Currently working in PERN stack along with GCP and improving my skills by working on amazing project at leandata.io . Exploring different tools and their interaction with node.js(Express.js), literally enjoying working as a full-stack developer.</h3>
-
-- 🌱 I’m currently learning about **Google Cloud Platform and Services**
-
-- 💬 Let's talk about **Web Development || Fitness || Music**
-
-- 📫 Reach me @ **shubhambhavsar50@gmail.com**
-
-- 📄 Explore my work adventure [https://www.linkedin.com/in/shubhambhavsar/](https://www.linkedin.com/in/shubhambhavsar/)
+<h3 align="center">A Full Stack Engineer with Masters in Information Technology. Experienced at developing responsive web designs and interactive UIs. Love to come across new challenges and that is what keeps my passion alive for programming. I started my journey with front-end development, worked in ReactJS on different projects. Currently working in PERN stack along with GCP and improving my backend skills by working on amazing project at leandata.io . Exploring different tools and their interaction with node.js(Express.js). Also getting experience with No-code platforms.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
